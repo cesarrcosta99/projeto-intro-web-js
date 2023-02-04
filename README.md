@@ -29,4 +29,3 @@ A entrega será feita na próxima parte do projeto, a de **HTML e CSS**. Nos vem
 Recomendamos que caso não lembre como funciona o processo de entrega, clique [**aqui**](https://github.com/labenuexercicios/instrucoes-entrega), e faça seu fork. A entrega do projeto completo será feita por um formulário que mandaremos para vocês ao terminarmos de ver todo o conteúdo de introdução ao desenvolvimento ao web.
 
 Bom projeto para vocês!
-
